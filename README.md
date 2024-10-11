@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <h1>1103589 Form</h1>
