@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Form Example</title>
+    <title>1103589 Form</title>
 </head>
 <body>
 
@@ -16,7 +16,7 @@
         <input type="text" id="studentID" name="studentID" placeholder="Your student ID"><br><br>
 
         <input type="submit" value="Submit">
-        <input type="reset" value="重設">
+        <input type="reset" value="reset">
     </form>
 
 </body>
